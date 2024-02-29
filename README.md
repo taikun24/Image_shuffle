@@ -5,7 +5,7 @@
 # 使用法
 
 1.versionsのフォルダ内を深く見ると.jarがあるので展開<br>
-2.http://chanhino.com/minecraft-resource-pack-create/これとか参考にしてリソースパックを作る<br>
+2.http://chanhino.com/minecraft-resource-pack-create/ これとか参考にしてリソースパックを作る<br>
 3.assets/minecraft/textuares/にblockとかitemがあることを確認<br>
 4.jarを実行、GUIが出てくるのでSelect File Buttonをクリックしblockやitemフォルダを選択<br>
 5.Shuffle!をクリック<br>
